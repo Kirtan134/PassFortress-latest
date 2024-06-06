@@ -11,12 +11,13 @@
 To get started with this app, clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/kirtan134/PassFortress.git
-cd PassFortress
+git clone https://github.com/kirtan134/PassFortress-mongo.git
+cd PassFortress-mongo
 npm install
 ```
 ## Usage
 After installing, you can start the server using:
+open PassFortress in code editor
 create .env file
 ```
 MONGOURI:" "
